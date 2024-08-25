@@ -1,0 +1,12 @@
+type Query {
+    hello: String!
+     randomNubmer: Int!
+    message: String!
+  }
+
+#type Review {
+#    id: ID!
+#    title: String!
+#    content: String!
+#    rating: Int!
+#}

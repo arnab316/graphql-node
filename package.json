@@ -10,10 +10,17 @@
   },
   "dependencies": {
     "@apollo/server": "^4.11.0",
+    "@graphql-codegen/cli": "^5.0.2",
+    "@graphql-tools/graphql-file-loader": "^8.0.1",
+    "@graphql-tools/load": "^8.0.2",
+    "@graphql-tools/load-files": "^7.0.0",
     "apollo-server": "^3.13.0",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "express": "^4.19.2",
-    "graphql": "^16.9.0"
-  }
+    "graphql": "^16.9.0",
+    "graphql-import-node": "^0.0.5",
+    "mongoose": "^8.5.4"
+  },
+  "devDependencies": {}
 }
